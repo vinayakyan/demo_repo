@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0"><object model="app1.student" pk="1"><field name="roll" type="PositiveIntegerField">101</field><field name="name" type="CharField">Amit</field><field name="marks" type="FloatField">76.0</field></object></django-objects>
